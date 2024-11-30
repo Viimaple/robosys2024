@@ -37,3 +37,6 @@ vi work
 chmod +x water_text.bash  
 vi water_text.bash  
 OK  
+##ライセンス
+
+このプロジェクトはBSD-3-Clauseライセンスのもとで公開されています。
